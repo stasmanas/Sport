@@ -11,7 +11,7 @@ using Sport.Shared;
 using Xamarin.Forms.Platform.Android;
 
 [assembly:Xamarin.Forms.Dependency(typeof(Sport.Android.MainActivity))]
-// Branch A
+// Branch B
 namespace Sport.Android
 {
 	[Activity(Label = "Sport", MainLauncher = true, Icon = "@drawable/icon", Theme = "@style/GrayTheme", ScreenOrientation = ScreenOrientation.Portrait)]
